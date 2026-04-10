@@ -23,7 +23,7 @@
     "serialize-javascript": ">=7.0.5"
   },
   "dependencies": {
-    "axios": "^0.30.3",
+    "axios": "^1.15.0",
     "babel-polyfill": "^6.26.0",
     "fractional": "^1.0.0",
     "uniqid": "^5.2.0"
